@@ -29,7 +29,7 @@ instagram_username: "@aigenesissolutions"
 
 
 # Build settings
-theme: agency-jekyll-theme
+theme: null
 plugins:
   - jekyll-feed
 
